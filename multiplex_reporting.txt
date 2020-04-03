@@ -1,0 +1,11 @@
+
+
+class MultiplexReporter(MultiplexScheme):
+
+    def write_all(self, arguments):
+        call write_user_input function
+        call write_consensus function
+
+    def write_user_input(arguments):
+
+    def write_consensus(arguments):
